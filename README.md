@@ -1,4 +1,4 @@
-# APM5
+# MultiMinecraft - MultiMinecraft Deluxe
 Pagina Oficial para reportar y solucionar problemas del servidor público.
 
 Importante: Para agilizar el procedimiento, desde el principio deberá publicar en imágenes o videos las pruebas relacionadas con su reporte, así se responderá lo antes posible.

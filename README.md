@@ -32,4 +32,4 @@ Importante: Si deseas colocar un Crash Report completo, primero deberás publica
 ### NO Reportar lo Siguiente
 
 * Servidor cerrado o caído. Para ello utilizar Twitter o el mail `heberonchannel@live.com`
-* Problemas de otros Modapcks diferentes.
+* Problemas de otros Modpacks diferentes.
